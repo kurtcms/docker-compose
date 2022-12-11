@@ -41,7 +41,7 @@ $ chmod +x /app/docker-compose/docker-compose.sh
 
 ### Run
 
-Run the script with [Bash](https://github.com/gitGNU/gnu_bash)
+Run the script
 
 ```shell
 $ /app/docker-compose/docker-compose.sh
