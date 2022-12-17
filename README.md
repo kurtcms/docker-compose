@@ -33,7 +33,7 @@ $ git clone https://github.com/kurtcms/docker-compose /app/docker-compose/
 
 ### Permission
 
-Provide the script with execute permission
+Provide the script with execute permission.
 
 ```shell
 $ chmod +x /app/docker-compose/docker-compose.sh
@@ -41,10 +41,10 @@ $ chmod +x /app/docker-compose/docker-compose.sh
 
 ### Run
 
-Run the script
+Run the script.
 
 ```shell
 $ /app/docker-compose/docker-compose.sh
 ```
 
-And have Docker Compose installed
+And have Docker Compose installed.
